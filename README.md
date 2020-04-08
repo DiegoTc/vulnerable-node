@@ -27,6 +27,8 @@ Similar project, like OWASP Node Goat, are pretty and useful for learning proces
 
 This project was created with the **purpose of have a project with identified vulnerabilities in source code with the finality of can measure the quality of security analyzers tools**.
 
+Node Goat help how to solve the problems: https://nodegoat.herokuapp.com/tutorial
+
 Although not its main objective, this project also can be useful for:
 
 - Pentesting training.
