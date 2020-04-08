@@ -11,6 +11,11 @@ Version | 1.0
 Code | https://github.com/cr0hn/vulnerable-node
 Issues | https://github.com/cr0hn/vulnerable-node/issues/
 Author | Daniel Garcia (cr0hn) - @ggdaniel
+Presentation | https://www.researchgate.net/publication/338825372_Hacking_NodeJS_applications_for_fun_and_profit
+Video  | https://www.youtube.com/watch?v=kGB5cCy0R-A
+
+# Capture the flag games
+https://ctf.hacker101.com/
 
 # What's this project?
 
